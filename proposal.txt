@@ -1,0 +1,1 @@
+- Create a multi-agent system that fetches updated shedule info from event (DroidCon, DevFest, FlutterCon) websites and recommend sessions for attendees with LangChains and Gemini.
