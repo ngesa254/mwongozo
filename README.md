@@ -22,3 +22,6 @@ Get Involved
 Contributions are welcome! If you'd like to enhance features or localize the app further, feel free to fork the repo, raise an issue, or submit a pull request.
 
 By leveraging the power of Gemini Multimodal LLM, Mwongozo offers a more personalized and intelligent experience for DevFest attendees.
+
+
+## Google AI/ML Developer Programs team supported this work by providing Google Cloud Credit
