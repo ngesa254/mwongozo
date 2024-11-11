@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Registration",
+    "speaker": "Not specified",
+    "time": "8:00 AM - 9:00 AM",
+    "track": "Outside",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Welcome to DevFest Lagos, Ground Rules and Safety",
+    "speaker": "Not specified",
+    "time": "9:05 AM - 9:10 AM",
+    "track": "Room 1",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Keynote",
+    "speaker": "Not specified",
+    "time": "9:15 AM - 9:45 AM",
+    "track": "Room 1",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "TBD",
+    "speaker": "Not specified",
+    "time": "9:50 AM - 10:30 AM",
+    "track": "Room 1",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Building Resilience Systems - Flexibility and Adaptability",
+    "speaker": "Not specified",
+    "time": "9:50 AM - 10:30 AM",
+    "track": "Room 2",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "TBD",
+    "speaker": "Not specified",
+    "time": "10:35 AM - 11:15 AM",
+    "track": "Room 1",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Empowering Development at Every Scale with FlutterFlow",
+    "speaker": "Not specified",
+    "time": "10:35 AM - 11:15 AM",
+    "track": "Room 2",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Walk To Take Photograph",
+    "speaker": "Not specified",
+    "time": "11:15 AM - 11:25 AM",
+    "track": "Outside",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Group Photograph",
+    "speaker": "Not specified",
+    "time": "11:25 AM - 12:00 PM",
+    "track": "Outside",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Lunch",
+    "speaker": "Not specified",
+    "time": "12:00 PM - 12:40 PM",
+    "track": "Outside",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Walk To Venue / Cleanup",
+    "speaker": "Not specified",
+    "time": "12:40 PM - 1:00 PM",
+    "track": "Outside",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Networking",
+    "speaker": "Not specified",
+    "time": "5:00 PM - 6:00 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Experiment Your Way To Success: A/B Testing for your Android Apps",
+    "speaker": "Yves Kalume",
+    "time": "1:00 PM - 1:45 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Building Web Apps That Work Offline and Beyond",
+    "speaker": "Confidence Okoghenun",
+    "time": "1:50 PM - 2:35 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "CSS Rises from the Ashes: (Re)Become Friends with Your Stylesheet",
+    "speaker": "Olivier Leplus",
+    "time": "2:40 PM - 3:25 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "The Role of Developer Relations in the Success of AI/ML Products",
+    "speaker": "Gift Ojeabulu",
+    "time": "3:30 PM - 4:15 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Building a Multi-Tenant SaaS with Microservices on Kubernetes",
+    "speaker": "Adeyanju Michael",
+    "time": "4:20 PM - 5:05 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  },
+  {
+    "title": "Cybersecurity Awareness For Small And Medium Enterprises",
+    "speaker": "Nkorom Ezekiel Kingsley",
+    "time": "5:05 PM - 5:50 PM",
+    "track": "General",
+    "description": "Not provided",
+    "difficulty": "Not specified",
+    "tags": []
+  }
+]
