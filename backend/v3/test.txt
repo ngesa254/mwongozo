@@ -2,3 +2,10 @@
 > Find me sessions about AI and machine learning
 > Who is speaking about web development?
 > Recommend sessions for someone interested in cloud computing
+
+
+  "Show me all AI sessions on Day 1",
+    "Who are the keynote speakers?",
+    "Recommend sessions for a web developer",
+    "What's happening in Room 1 tomorrow?",
+    "Is there a workshop about cloud computing?"
