@@ -1,0 +1,4 @@
+> What sessions are available tomorrow?
+> Find me sessions about AI and machine learning
+> Who is speaking about web development?
+> Recommend sessions for someone interested in cloud computing
