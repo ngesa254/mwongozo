@@ -1,0 +1,15 @@
+{
+  "day1": [
+    {
+      "title": "DevFest Nairobi Opening Keynote",
+      "time": "9:00 AM - 10:00 AM",
+      "speaker": "TBD",
+      "track": "General",
+      "room": "Main Hall",
+      "session_type": "Keynote",
+      "day": "Day 1",
+      "description": "Opening keynote for DevFest Nairobi 2024"
+    }
+  ],
+  "day2": []
+}

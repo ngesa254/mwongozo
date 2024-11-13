@@ -1,4 +1,0 @@
-vertexai 
-rich 
-requests
-beautifulsoup4
