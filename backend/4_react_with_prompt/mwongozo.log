@@ -1,0 +1,195 @@
+2024-11-13 07:56:50,701 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 07:56:51,837 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 07:56:53,206 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 07:56:53,276 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 07:56:53,633 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 07:56:53,683 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 07:56:53,752 - __main__ - ERROR - Error processing query: 403 POST https://us-central1-aiplatform.googleapis.com/v1beta1/projects/your-project-id/locations/us-central1/publishers/google/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: Vertex AI API has not been used in project your-project-id before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Google developers console API activation', 'url': 'https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id'}]}, {'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'SERVICE_DISABLED', 'domain': 'googleapis.com', 'metadata': {'consumer': 'projects/your-project-id', 'service': 'aiplatform.googleapis.com'}}]
+2024-11-13 07:56:53,752 - __main__ - ERROR - Error in main: 403 POST https://us-central1-aiplatform.googleapis.com/v1beta1/projects/your-project-id/locations/us-central1/publishers/google/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: Vertex AI API has not been used in project your-project-id before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Google developers console API activation', 'url': 'https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id'}]}, {'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'SERVICE_DISABLED', 'domain': 'googleapis.com', 'metadata': {'consumer': 'projects/your-project-id', 'service': 'aiplatform.googleapis.com'}}]
+2024-11-13 07:57:39,250 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 07:57:40,392 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 07:57:41,734 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 07:57:41,803 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 07:57:42,175 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 07:57:42,226 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 07:57:42,295 - __main__ - ERROR - Error processing query: 403 POST https://us-central1-aiplatform.googleapis.com/v1beta1/projects/your-project-id/locations/us-central1/publishers/google/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: Vertex AI API has not been used in project your-project-id before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Google developers console API activation', 'url': 'https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id'}]}, {'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'SERVICE_DISABLED', 'domain': 'googleapis.com', 'metadata': {'service': 'aiplatform.googleapis.com', 'consumer': 'projects/your-project-id'}}]
+2024-11-13 07:57:42,295 - __main__ - ERROR - Error in main: 403 POST https://us-central1-aiplatform.googleapis.com/v1beta1/projects/your-project-id/locations/us-central1/publishers/google/models/gemini-pro:generateContent?%24alt=json%3Benum-encoding%3Dint: Vertex AI API has not been used in project your-project-id before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Google developers console API activation', 'url': 'https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=your-project-id'}]}, {'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'SERVICE_DISABLED', 'domain': 'googleapis.com', 'metadata': {'service': 'aiplatform.googleapis.com', 'consumer': 'projects/your-project-id'}}]
+2024-11-13 08:17:03,929 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:17:05,411 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:17:06,853 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 08:17:06,925 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:17:07,305 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:17:07,307 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 08:17:07,307 - __main__ - ERROR - Error processing query: 'TOOLS'
+2024-11-13 08:17:07,308 - __main__ - ERROR - Error in main: 'TOOLS'
+2024-11-13 08:20:33,201 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:20:34,592 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:20:35,961 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 08:20:36,030 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:20:36,395 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:20:36,397 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 08:20:36,397 - __main__ - ERROR - Error processing query: 'MwongozoQueryEngine' object has no attribute '_select_prompt_template'
+2024-11-13 08:20:36,397 - __main__ - ERROR - Error in main: 'MwongozoQueryEngine' object has no attribute '_select_prompt_template'
+2024-11-13 08:24:42,008 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:24:43,158 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:24:44,522 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 08:24:44,593 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:24:44,969 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:24:44,972 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 08:24:49,558 - __main__ - ERROR - Error processing query: The model response did not complete successfully.
+Finish reason: 2.
+Finish message: .
+Safety ratings: [category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+probability_score: 0.07470703125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.083984375
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+probability_score: 0.1396484375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.150390625
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+probability_score: 0.11767578125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.07373046875
+, category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+probability_score: 0.09033203125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.08251953125
+].
+To protect the integrity of the chat session, the request and response were not added to chat history.
+To skip the response validation, specify `model.start_chat(response_validation=False)`.
+Note that letting blocked or otherwise incomplete responses into chat history might lead to future interactions being blocked by the service.
+2024-11-13 08:24:49,558 - __main__ - ERROR - Error in main: The model response did not complete successfully.
+Finish reason: 2.
+Finish message: .
+Safety ratings: [category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+probability_score: 0.07470703125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.083984375
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+probability_score: 0.1396484375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.150390625
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+probability_score: 0.11767578125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.07373046875
+, category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+probability_score: 0.09033203125
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.08251953125
+].
+To protect the integrity of the chat session, the request and response were not added to chat history.
+To skip the response validation, specify `model.start_chat(response_validation=False)`.
+Note that letting blocked or otherwise incomplete responses into chat history might lead to future interactions being blocked by the service.
+2024-11-13 08:28:00,061 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:28:01,222 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:30:23,862 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:30:25,003 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:34:26,844 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:34:27,761 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:34:48,393 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:34:49,353 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:38:01,205 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:38:02,134 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:38:03,574 - __main__ - INFO - Updated user context: {'interests': ['AI', 'Machine Learning', 'Cloud Computing'], 'experience_level': 'intermediate', 'preferences': {'preferred_times': 'morning', 'session_type': 'workshop'}}
+2024-11-13 08:38:03,647 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:38:04,023 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:38:04,025 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 08:38:21,691 - __main__ - ERROR - Error processing query: The model response did not complete successfully.
+Finish reason: 2.
+Finish message: .
+Safety ratings: [category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+probability_score: 0.06103515625
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.08251953125
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+probability_score: 0.05419921875
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.11767578125
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+probability_score: 0.1357421875
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.059326171875
+, category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+probability_score: 0.046630859375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.054931640625
+].
+To protect the integrity of the chat session, the request and response were not added to chat history.
+To skip the response validation, specify `model.start_chat(response_validation=False)`.
+Note that letting blocked or otherwise incomplete responses into chat history might lead to future interactions being blocked by the service.
+2024-11-13 08:38:26,322 - __main__ - ERROR - Error processing query: The model response did not complete successfully.
+Finish reason: 2.
+Finish message: .
+Safety ratings: [category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+probability_score: 0.0419921875
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.09033203125
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+probability_score: 0.051025390625
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.09130859375
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+probability_score: 0.0771484375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.09814453125
+, category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+probability_score: 0.056640625
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.068359375
+].
+To protect the integrity of the chat session, the request and response were not added to chat history.
+To skip the response validation, specify `model.start_chat(response_validation=False)`.
+Note that letting blocked or otherwise incomplete responses into chat history might lead to future interactions being blocked by the service.
+2024-11-13 08:42:25,583 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:42:26,492 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:43:00,157 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2024-11-13 08:43:01,382 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2024-11-13 08:43:28,971 - __main__ - INFO - Updated user context: {'interests': ['AI'], 'experience_level': 'intemediate', 'preferences': {'preferred_times': 'afternoon', 'session_type': 'any'}}
+2024-11-13 08:43:29,044 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:43:29,410 - llama_index.core.indices.loading - INFO - Loading all indices.
+2024-11-13 08:43:29,412 - __main__ - INFO - Successfully set up tools for events: ['Lagos', 'Nairobi']
+2024-11-13 08:44:21,278 - __main__ - ERROR - Error processing query: The model response did not complete successfully.
+Finish reason: 2.
+Finish message: .
+Safety ratings: [category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+probability_score: 0.103515625
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.09521484375
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+probability_score: 0.083984375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.10498046875
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+probability_score: 0.177734375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.07470703125
+, category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+probability_score: 0.0849609375
+severity: HARM_SEVERITY_NEGLIGIBLE
+severity_score: 0.1337890625
+].
+To protect the integrity of the chat session, the request and response were not added to chat history.
+To skip the response validation, specify `model.start_chat(response_validation=False)`.
+Note that letting blocked or otherwise incomplete responses into chat history might lead to future interactions being blocked by the service.

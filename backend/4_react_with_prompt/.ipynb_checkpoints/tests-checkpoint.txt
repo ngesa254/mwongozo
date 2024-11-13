@@ -1,0 +1,29 @@
+$ python query_engine.py
+
+Welcome to Mwongozo - Your DevFest Events Assistant!
+==================================================
+
+Let me understand your preferences better:
+What are your technical interests? AI, ML, Cloud
+What's your experience level? intermediate
+Do you prefer morning or afternoon sessions? morning
+What type of sessions do you prefer? workshop
+
+Loading DevFest events data...
+
+Mwongozo is ready! You can now ask questions about DevFest Lagos and Nairobi.
+
+Your question: Find AI sessions in both events
+
+[Mwongozo's response shows here]
+
+Would you like more details about any of these sessions? yes
+Which session would you like to know more about?: Building Responsible AI
+
+[Detailed response shows here]
+
+Would you like recommendations for related sessions? yes
+
+[Recommendations show here]
+
+Your question:
