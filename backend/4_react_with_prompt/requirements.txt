@@ -1,0 +1,4 @@
+google-cloud-aiplatform
+llama-index 
+llama-index-llms-vertex 
+llama-index-embeddings-huggingface
